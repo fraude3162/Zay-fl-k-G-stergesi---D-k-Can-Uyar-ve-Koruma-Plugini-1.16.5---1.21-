@@ -1,0 +1,12 @@
+name: ZayiflikGostergesi
+main: com.zayiflik.ZayiflikGostergesi
+version: 1.0
+author: SeninAdin
+api-version: 1.16
+description: Oyuncunun canı %30'un altına düştüğünde uyarı veren plugin (1.16.5-1.21 uyumlu)
+website: https://github.com/yourusername/ZayiflikGostergesi
+softdepend: [Vault]
+commands:
+  zayıflıkgostergesi:
+    description: Zayıflık göstergesini açıp kapatır
+    usage: /<command> aç|kapat 
